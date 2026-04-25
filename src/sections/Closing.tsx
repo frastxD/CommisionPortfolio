@@ -47,7 +47,6 @@ export function Closing() {
               </div>
             </Card>
           </Reveal>
-
           <Reveal delay={0.05}>
             <Card className="lg:col-span-5">
               <p className="text-sm font-semibold text-fg">Social links</p>
