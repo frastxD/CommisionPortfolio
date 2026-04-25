@@ -51,7 +51,7 @@ export const portfolio = {
   ] satisfies NavItem[],
 
   hero: {
-    title: '🚀 OPEN FOR COMMISSIONS',
+    title: '🚀 OPEN FOR COMMISSIONS !',
     subtitle: 'Looking for a reliable developer for your system needs?',
     description: 'We offer custom-built solutions tailored to your requirements.',
     cta: { label: 'Get a Quote', href: '#contact', icon: Rocket },
