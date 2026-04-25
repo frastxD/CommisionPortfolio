@@ -38,7 +38,7 @@ export function Closing() {
                 <a href={`mailto:${portfolio.closing.email}`}>
                   <Button>
                     <Mail className="h-4 w-4" />
-                    Email me
+                    Email me at
                   </Button>
                 </a>
                 <p className="self-center text-sm text-fg/70">
